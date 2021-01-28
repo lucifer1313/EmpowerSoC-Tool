@@ -50,3 +50,4 @@ researchers who wish to put forward new low power SoC designs.
 3) Naveen Dugar, B.E. ECE NSUT, Delhi - naveen.dugar1010@gmail.com
 4) Sagar Yadav, M.Tech NSUT, Delhi - 13sagaryadav@gmail.com
 5) Dr. Kunwar Singh, Assistant Professor, NSUT Delhi - kunwar.nsut@gmail.com
+6) Kunal Ghosh, Co-founder at VLSI System Design
